@@ -41,6 +41,9 @@ Document at least 3 bugs you found. Add rows as needed.
 | Switching difficulty | Switching difficulty should generate a new secret number, reset the attempts, and notify the user that this was done | The same secret is still set, the number of attempts allowed/already guessed does not change | Error |
 ---
 
+Which bugs do we fix: 
+
+23, Off by One
 ## 2. How did you use AI as a teammate?
 
 - Which AI tools did you use on this project (for example: ChatGPT, Gemini, Copilot)?
